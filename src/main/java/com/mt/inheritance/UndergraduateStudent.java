@@ -1,4 +1,4 @@
-package com.mt.student;
+package com.mt.inheritance;
 
 import lombok.Getter;
 import lombok.Setter;

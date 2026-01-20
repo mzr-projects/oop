@@ -1,9 +1,9 @@
 package com.mt;
 
-import com.mt.student.MasterStudent;
-import com.mt.student.PhdStudent;
-import com.mt.student.Student;
-import com.mt.student.UndergraduateStudent;
+import com.mt.inheritance.MasterStudent;
+import com.mt.inheritance.PhdStudent;
+import com.mt.inheritance.Student;
+import com.mt.inheritance.UndergraduateStudent;
 
 import java.util.ArrayList;
 import java.util.List;

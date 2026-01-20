@@ -1,4 +1,4 @@
-package com.mt.grocery;
+package com.mt.delegation;
 
 import lombok.extern.slf4j.Slf4j;
 

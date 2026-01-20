@@ -1,4 +1,4 @@
-package com.mt.student;
+package com.mt.inheritance;
 
 import lombok.extern.slf4j.Slf4j;
 
