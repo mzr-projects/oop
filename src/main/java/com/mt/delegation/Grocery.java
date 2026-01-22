@@ -13,7 +13,8 @@ import java.util.List;
 public class Grocery {
 
     /*
-     * This is composition Grocery Has-A list of items
+     * This is composition Grocery Has-A list of items, here we also hide the type of List from user
+     * We are using ArrayList without making the user to decide which implementation he should use.
      * */
     private List<Item> itemList;
 

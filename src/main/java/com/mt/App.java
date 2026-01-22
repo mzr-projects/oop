@@ -16,6 +16,11 @@ public class App {
         students.add(new PhdStudent(3, "Jason"));
 
         for (Student student : students) {
+            /*
+             * Java is going to start from the lowest level of saySomething e.g if there is saySomething method in
+             * MasterStudent then will run it if not it goes level by level up to the parent class which here is
+             * Student.
+             * */
             student.saySomething("This is a random student");
         }
     }

@@ -12,6 +12,6 @@ public class MasterStudent extends Student {
     @Override
     public void saySomething(String message) {
         log.info("In MasterStudent");
-        super.saySomething(message);
+        //super.saySomething(message);
     }
 }
