@@ -1,0 +1,12 @@
+package com.mt.patterns.strategy.noise;
+
+import lombok.extern.slf4j.Slf4j;
+
+@Slf4j
+public class Quak implements NoiseBehavior {
+
+    @Override
+    public void makeNoise() {
+        log.info("Quak has been made");
+    }
+}

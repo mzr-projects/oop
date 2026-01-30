@@ -25,7 +25,7 @@ public interface StudentLog {
         }
     }
 
-    /*
+    /*~
      * We can also define private methods inside interfaces
      * */
     private static boolean isNotNull(String message) {
