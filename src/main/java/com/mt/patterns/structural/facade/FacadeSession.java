@@ -1,4 +1,4 @@
-package com.mt.patterns.facade;
+package com.mt.patterns.structural.facade;
 
 public interface FacadeSession {
 

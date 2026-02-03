@@ -1,4 +1,4 @@
-package com.mt.patterns.facade;
+package com.mt.patterns.structural.facade;
 
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;

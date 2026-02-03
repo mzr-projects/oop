@@ -1,4 +1,4 @@
-package com.mt.patterns.decorator;
+package com.mt.patterns.structural.decorator;
 
 public interface Pizza {
 

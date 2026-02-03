@@ -1,4 +1,4 @@
-package com.mt.patterns.proxy;
+package com.mt.patterns.structural.proxy;
 
 public interface Subject {
 
