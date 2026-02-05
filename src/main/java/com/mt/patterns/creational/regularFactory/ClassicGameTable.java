@@ -25,4 +25,9 @@ public class ClassicGameTable extends Table {
     public void box() {
         log.info("Boxing classic game table");
     }
+
+    @Override
+    protected void getComponents() {
+
+    }
 }

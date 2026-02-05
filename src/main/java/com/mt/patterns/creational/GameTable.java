@@ -24,4 +24,9 @@ public class GameTable extends Table {
     public void box() {
         log.info("GameTable box");
     }
+
+    @Override
+    protected void getComponents() {
+
+    }
 }

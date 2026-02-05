@@ -24,4 +24,9 @@ public class CoffeeTable extends Table {
     public void box() {
         log.info("CoffeeTable box");
     }
+
+    @Override
+    protected void getComponents() {
+
+    }
 }

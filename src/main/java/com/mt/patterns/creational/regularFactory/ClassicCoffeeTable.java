@@ -29,4 +29,9 @@ public class ClassicCoffeeTable extends Table {
     public void box() {
         log.info("Boxing classic coffee table");
     }
+
+    @Override
+    protected void getComponents() {
+
+    }
 }
