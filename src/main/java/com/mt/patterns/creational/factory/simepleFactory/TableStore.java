@@ -1,6 +1,6 @@
-package com.mt.patterns.creational.simepleFactory;
+package com.mt.patterns.creational.factory.simepleFactory;
 
-import com.mt.patterns.creational.Table;
+import com.mt.patterns.creational.factory.Table;
 import lombok.RequiredArgsConstructor;
 
 @RequiredArgsConstructor

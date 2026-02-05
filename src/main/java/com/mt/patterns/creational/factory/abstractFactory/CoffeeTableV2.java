@@ -1,6 +1,6 @@
-package com.mt.patterns.creational.abstractFactory;
+package com.mt.patterns.creational.factory.abstractFactory;
 
-import com.mt.patterns.creational.Table;
+import com.mt.patterns.creational.factory.Table;
 import lombok.extern.slf4j.Slf4j;
 
 @Slf4j

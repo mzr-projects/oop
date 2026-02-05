@@ -1,4 +1,4 @@
-package com.mt.patterns.creational.abstractFactory;
+package com.mt.patterns.creational.factory.abstractFactory;
 
 public class ClassicTableComponentFactory extends TableComponentFactory {
 

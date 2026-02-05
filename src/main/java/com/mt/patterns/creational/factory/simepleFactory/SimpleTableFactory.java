@@ -1,8 +1,8 @@
-package com.mt.patterns.creational.simepleFactory;
+package com.mt.patterns.creational.factory.simepleFactory;
 
-import com.mt.patterns.creational.CoffeeTable;
-import com.mt.patterns.creational.GameTable;
-import com.mt.patterns.creational.Table;
+import com.mt.patterns.creational.factory.CoffeeTable;
+import com.mt.patterns.creational.factory.GameTable;
+import com.mt.patterns.creational.factory.Table;
 
 public class SimpleTableFactory {
 

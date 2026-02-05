@@ -1,8 +1,8 @@
-package com.mt.patterns.creational;
+package com.mt.patterns.creational.factory;
 
-import com.mt.patterns.creational.abstractFactory.Hardware;
-import com.mt.patterns.creational.abstractFactory.Surface;
-import com.mt.patterns.creational.abstractFactory.WoodParts;
+import com.mt.patterns.creational.factory.abstractFactory.Hardware;
+import com.mt.patterns.creational.factory.abstractFactory.Surface;
+import com.mt.patterns.creational.factory.abstractFactory.WoodParts;
 import lombok.extern.slf4j.Slf4j;
 
 @Slf4j

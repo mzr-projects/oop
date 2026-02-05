@@ -1,4 +1,4 @@
-package com.mt.patterns.creational.abstractFactory;
+package com.mt.patterns.creational.factory.abstractFactory;
 
 import lombok.extern.slf4j.Slf4j;
 

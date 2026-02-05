@@ -1,9 +1,7 @@
-package com.mt.patterns.creational.abstractFactory;
+package com.mt.patterns.creational.factory.abstractFactory;
 
-import com.mt.patterns.creational.Table;
-import com.mt.patterns.creational.regularFactory.ClassicCoffeeTable;
-import com.mt.patterns.creational.regularFactory.ClassicGameTable;
-import com.mt.patterns.creational.regularFactory.Store;
+import com.mt.patterns.creational.factory.Table;
+import com.mt.patterns.creational.factory.regularFactory.Store;
 import lombok.extern.slf4j.Slf4j;
 
 @Slf4j
