@@ -25,4 +25,9 @@ public class ModernGameTable extends Table {
     public void box() {
         log.info("Boxing modern game table");
     }
+
+    @Override
+    protected void getComponents() {
+
+    }
 }
