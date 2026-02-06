@@ -1,4 +1,4 @@
-package com.mt.patterns.composite;
+package com.mt.patterns.behavioral.strategy.composite;
 
 public interface FileSystemComponent {
 

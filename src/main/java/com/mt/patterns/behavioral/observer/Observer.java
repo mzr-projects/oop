@@ -1,4 +1,4 @@
-package com.mt.patterns.observer;
+package com.mt.patterns.behavioral.observer;
 
 public interface Observer {
 

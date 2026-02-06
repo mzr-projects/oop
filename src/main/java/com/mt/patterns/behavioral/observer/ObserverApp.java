@@ -1,4 +1,4 @@
-package com.mt.patterns.observer;
+package com.mt.patterns.behavioral.observer;
 
 import lombok.extern.slf4j.Slf4j;
 

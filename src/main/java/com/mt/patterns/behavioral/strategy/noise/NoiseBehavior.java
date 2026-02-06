@@ -1,4 +1,4 @@
-package com.mt.patterns.strategy.noise;
+package com.mt.patterns.behavioral.strategy.noise;
 
 public interface NoiseBehavior {
 

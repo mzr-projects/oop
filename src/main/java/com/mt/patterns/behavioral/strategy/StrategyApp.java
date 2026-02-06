@@ -1,7 +1,7 @@
-package com.mt.patterns.strategy;
+package com.mt.patterns.behavioral.strategy;
 
-import com.mt.patterns.strategy.fly.WingFlier;
-import com.mt.patterns.strategy.models.*;
+import com.mt.patterns.behavioral.strategy.fly.WingFlier;
+import com.mt.patterns.behavioral.strategy.models.*;
 import lombok.extern.slf4j.Slf4j;
 
 import java.util.ArrayList;

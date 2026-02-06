@@ -1,4 +1,4 @@
-package com.mt.patterns.composite;
+package com.mt.patterns.behavioral.strategy.composite;
 
 /*
  * FileClass(Leaf) and Directory(Composite) objects are used to create a tree structure of files and containers

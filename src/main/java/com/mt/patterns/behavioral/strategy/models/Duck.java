@@ -1,7 +1,7 @@
-package com.mt.patterns.strategy.models;
+package com.mt.patterns.behavioral.strategy.models;
 
-import com.mt.patterns.strategy.fly.FlightBehavior;
-import com.mt.patterns.strategy.noise.NoiseBehavior;
+import com.mt.patterns.behavioral.strategy.fly.FlightBehavior;
+import com.mt.patterns.behavioral.strategy.noise.NoiseBehavior;
 import lombok.Getter;
 import lombok.Setter;
 import lombok.extern.slf4j.Slf4j;
