@@ -7,6 +7,6 @@ public class FlyIfThrow implements FlightBehavior {
 
     @Override
     public void fly() {
-        log.info("Cant fly if being thrown...");
+        log.info("Can fly if being thrown...");
     }
 }

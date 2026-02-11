@@ -1,4 +1,4 @@
-package com.mt.patterns.behavioral.strategy.composite;
+package com.mt.patterns.behavioral.composite;
 
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
