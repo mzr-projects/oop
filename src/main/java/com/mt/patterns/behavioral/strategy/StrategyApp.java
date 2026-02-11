@@ -12,7 +12,6 @@ public class StrategyApp {
 
     static void main(String[] args) {
         List<Duck> ducks = new ArrayList<>();
-        Duck duck = new BlackDuck();
 
         ducks.add(new MallardDuck());
         ducks.add(new RubberDuck());
@@ -20,6 +19,7 @@ public class StrategyApp {
         useDucks(ducks);
 
         log.info("########### Setting WingFlier Strategy(Here we define the strategy of flying)###########");
+        Duck duck = new BlackDuck();
         duck.setFlightBehavior(new WingFlier());
         ducks.add(duck);
 
