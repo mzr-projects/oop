@@ -7,6 +7,6 @@ public class WingFlier implements FlightBehavior {
 
     @Override
     public void fly() {
-        log.info("WingFlier flying");
+        log.info("Flying with wings ");
     }
 }
